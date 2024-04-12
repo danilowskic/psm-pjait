@@ -1,2 +1,4 @@
 # psm-pjatk
-A set of projects created due to PSM (Podstawy Symulacji Komputerowych) laboratories at PJATK
+
+## Overview
+Simple simulations of physical phenomena created for the needs of PSM laboratories (Fundamentals of Computer Simulations) at PJAIT
